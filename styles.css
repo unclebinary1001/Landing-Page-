@@ -154,3 +154,11 @@ body {
     border-radius: 5px;
     padding: 5px;
 }
+
+footer {
+    justify-content: flex-end;
+    text-align: center;
+    background-color: #1F2937;
+    padding: 20px;
+    color: #F9FAF8
+}
